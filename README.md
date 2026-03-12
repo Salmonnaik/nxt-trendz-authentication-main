@@ -57,8 +57,8 @@ Before running this project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/nxt-trendz-authentication.git
-cd nxt-trendz-authentication
+git clone https://github.com/Salmonnaik/nxt-trendz-authentication-main.git
+cd nxt-trendz-authentication-main
 ```
 
 ### 2. Install Dependencies
